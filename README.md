@@ -1,1 +1,5 @@
-![LOGO_OTG_NEW ID_-8](https://github.com/OTG-Ventures/.github/assets/11397955/9ce4ccb4-d889-4621-9d9d-c6722ab35262)
+<p align="center">
+  <img src="[https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true](https://github.com/OTG-Ventures/.github/assets/11397955/3cacdc55-a5cd-4991-831c-fc2469637e14)" alt="Sublime's custom image"/>
+</p>
+
+https://github.com/OTG-Ventures/.github/assets/11397955/3cacdc55-a5cd-4991-831c-fc2469637e14
